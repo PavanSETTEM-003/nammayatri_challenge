@@ -4,7 +4,7 @@ The Telegram Bot is a proposed auto booking system that aims to simplify the pro
 
 If the user needs to correct any mistakes in the location or swap the user and destination location, the bot offers buttons to do so. Once the booking is confirmed, the bot sends a JSON request to the Nammayatri booking system for fare and booking details. The API result is then sent to the user as a booking confirmation message, which includes the driver's name, contact number, auto number, fare, and estimated arrival time.
 
-The prototype for the Nammayatri Telegram Bot in the name "nammayatri_prototype".I welcome any feedback and suggestions for future development, your input is valuable in improving the functionality and usability of the bot, and I am open to discussing any ideas you may have."
+I welcome any feedback and suggestions for future development, your input is valuable in improving the functionality and usability of the bot, and I am open to discussing any ideas you may have."
 
 ![all20one](https://user-images.githubusercontent.com/88257205/235337313-4f9afcb9-4699-455d-bd6f-2dfb9549ad39.png)
 
